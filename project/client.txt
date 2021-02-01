@@ -1,0 +1,8 @@
+11111111	aaaa	aaaaa	1	aaaaa	22223333	
+22222222	bbbbb	bbbbb	2	bbbbb	44445555	
+33333333	cccc	ccccc	3	cccccc	55556666
+44444444	dddd	ddddd	4	ddddd	22223333
+55555555	cccc	ccccc	3	cccccc	55556666
+66666666	dddd	ddddd	4	ddddd	22223333
+
+	

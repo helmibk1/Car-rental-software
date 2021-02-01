@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1461508164 source:c:\users\helmibk1\desktop\new folder (5)\projet\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"main.h"
+	"func1.h"
+	"func2.h"
+	"func3.h"
+	"verif.h"
+	"draw.h"
+
+1461490162 c:\users\helmibk1\desktop\new folder (5)\projet\menu.h
+
+1461504274 c:\users\helmibk1\desktop\new folder (5)\projet\main.h
+
+1461506642 c:\users\helmibk1\desktop\new folder (5)\projet\func1.h
+
+1461505526 c:\users\helmibk1\desktop\new folder (5)\projet\verif.h
+
+1461508446 c:\users\helmibk1\desktop\new folder (5)\projet\func2.h
+
+1461260040 c:\users\helmibk1\desktop\new folder (5)\projet\func3.h
+
+1461500176 c:\users\helmibk1\desktop\new folder (5)\projet\draw.h
+
+1461688969 source:c:\users\helmibk1\desktop\projet $\projet\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"main.h"
+	"func1.h"
+	"func2.h"
+	"func3.h"
+	"verif.h"
+	"draw.h"
+
+1461536435 c:\users\helmibk1\desktop\projet $\projet\menu.h
+
+1461711857 c:\users\helmibk1\desktop\projet $\projet\main.h
+
+1461713127 c:\users\helmibk1\desktop\projet $\projet\func1.h
+
+1461771815 c:\users\helmibk1\desktop\projet $\projet\func2.h
+
+1461608633 c:\users\helmibk1\desktop\projet $\projet\func3.h
+
+1461597054 c:\users\helmibk1\desktop\projet $\projet\verif.h
+
+1461607514 c:\users\helmibk1\desktop\projet $\projet\draw.h
+
+1461688969 source:d:\projet $\projet\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"main.h"
+	"func1.h"
+	"func2.h"
+	"func3.h"
+	"verif.h"
+	"draw.h"
+
+1461536435 d:\projet $\projet\menu.h
+
+1461711857 d:\projet $\projet\main.h
+
+1461713127 d:\projet $\projet\func1.h
+
+1461771815 d:\projet $\projet\func2.h
+
+1461608633 d:\projet $\projet\func3.h
+
+1461597054 d:\projet $\projet\verif.h
+
+1461607514 d:\projet $\projet\draw.h
+
